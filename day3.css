@@ -1,0 +1,49 @@
+h2
+  {text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: darkblue;
+    text-shadow: 0cqb;
+  }
+
+  h4
+   {
+    color: chartreuse;
+    text-decoration: dotted;
+    }
+
+   p
+   {
+    color: aqua;
+   }
+
+   table
+   {
+    border:3px solid blueviolet;
+    padding: 20px;
+    margin: 3px;
+    }
+    th
+    {
+        background-color: cadetblue;
+        color: crimson;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: medium;
+        }
+        ol
+        {
+            color: darkorchid;
+            font-family: cursive;
+            font-size: small;
+        }
+
+        footer
+        {
+            font-size: larger;
+            color: indigo;
+            text-align: end;
+         }
+         image{
+            float: left;
+            size:200;
+         }
